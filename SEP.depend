@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1507466324 source:e:\kth master\id2207\project\sep\test.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"request.h"
+
+1507896886 e:\kth master\id2207\project\sep\employee.h
+	<string>
+	"request.h"
+	"login.h"
+	"employee_record.h"
+	"service_production.h"
+
+1507896689 e:\kth master\id2207\project\sep\request.h
+	<string>
+	<iostream>
+
+1507578698 e:\kth master\id2207\project\sep\login.h
+	<string>
+	<iostream>
+
+1507471926 source:e:\kth master\id2207\project\sep\manage_financial_request.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"request.h"
+	"employee.h"
+	"login.h"
+
+1507895249 source:e:\kth master\id2207\project\sep\request.cpp
+	"request.h"
+
+1507843333 source:e:\kth master\id2207\project\sep\login.cpp
+	"login.h"
+
+1507728728 e:\kth master\id2207\project\sep\employee_record.h
+	<string>
+	<iostream>
+
+1507554583 e:\kth master\id2207\project\sep\service_production.h
+	<string>
+	<iostream>
+
+1507553583 source:e:\kth master\id2207\project\sep\service_production.cpp
+	"service_production.h"
+
+1507895234 source:e:\kth master\id2207\project\sep\ui.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"request.h"
+	"employee.h"
+	"login.h"
+	"service_production.h"
+
